@@ -42,6 +42,7 @@ def fun2(n):
         bits.append(cnt)
     return bits
     
+    
 # 3
 def func3(n):
     res = [0] * (n + 1)
